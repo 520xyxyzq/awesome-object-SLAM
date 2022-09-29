@@ -13,6 +13,8 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 [TODO] Is it better to list them in the order of category->year->paper? But still not sure what's the best way to categorize them... (object representation? sensors?) Or maybe there is a smarter way to label papers with different categories (like a paper can be RGB + using Quadrics + ...)? 
 
+[NOTE] After the paper title, we can add PDF/Code/Video/ProjPage. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
+
 ### 2022
 
 - Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/rpng/suo_slam)
