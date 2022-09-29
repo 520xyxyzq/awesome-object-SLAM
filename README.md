@@ -7,5 +7,9 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 
 ## Table of Contents
 
-## Object SLAM papers
+## Papers
+
+## Resources
+
+
 
