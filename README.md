@@ -22,6 +22,18 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 - Compositional and Scalable Object SLAM. [\[PDF\]](https://akashsharma02.github.io/assets/pdf/Sharma21icra.pdf) [\[Code\]](https://github.com/rpl-cmu/object-slam)
 
+### 2020
+
+
+
+### 2019
+- CubeSLAM: Monocular 3D Object SLAM. [\[PDF\]](https://arxiv.org/pdf/1806.00557.pdf) [\[Code\]](https://github.com/shichaoy/cube_slam)
+- QuadricSLAM: Dual quadrics from object detections as landmarks in object-oriented SLAM. [\[PDF\]](https://natanaso.github.io/rcw-icra18/assets/ref/ICRA-MRP18_paper_14.pdf) [\[Code\]](https://github.com/qcr/quadricslam)
+
+[TODO] Before a certain year?
+### 2013
+- SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. [\[PDF\]](https://www.doc.ic.ac.uk/~ajd/Publications/salas-moreno_etal_cvpr2013.pdf)
+
 ## Resources
 
 
