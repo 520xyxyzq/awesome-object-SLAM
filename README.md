@@ -13,7 +13,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 [TODO] Is it better to list them in the order of category->year->paper? But still not sure what's the best way to categorize them... (object representation? sensors?) Or maybe there is a smarter way to label papers with different categories (like a paper can be RGB + using Quadrics + ...)? 
 
-[NOTE] After the paper title, we can add PDF/Code/Video/ProjPage. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
+[NOTE] Format for now: All-caps title, after which we add PDF/Code/Video/ProjPage. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
 
 ### 2022
 
@@ -31,7 +31,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 ### 2019
 - CubeSLAM: Monocular 3D Object SLAM. [\[PDF\]](https://arxiv.org/pdf/1806.00557.pdf) [\[Code\]](https://github.com/shichaoy/cube_slam)
-- QuadricSLAM: Dual quadrics from object detections as landmarks in object-oriented SLAM. [\[PDF\]](https://natanaso.github.io/rcw-icra18/assets/ref/ICRA-MRP18_paper_14.pdf) [\[Code\]](https://github.com/qcr/quadricslam)
+- QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-Oriented SLAM. [\[PDF\]](https://natanaso.github.io/rcw-icra18/assets/ref/ICRA-MRP18_paper_14.pdf) [\[Code\]](https://github.com/qcr/quadricslam)
 
 [TODO] Before a certain year?
 ### 2013
