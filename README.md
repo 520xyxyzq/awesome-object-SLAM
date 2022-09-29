@@ -9,6 +9,9 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 
 ## Papers
 
+Compositional and Scalable Object SLAM [\[PDF\]](https://akashsharma02.github.io/assets/pdf/Sharma21icra.pdf) [\[Code\]](https://github.com/rpl-cmu/object-slam)
+
+
 ## Resources
 
 
