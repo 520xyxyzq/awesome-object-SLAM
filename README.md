@@ -11,9 +11,12 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 ## Papers
 
+[TODO] Is it better to list them in the order of category->year->paper? But still not sure what's the best way to categorize them... (object representation? sensors?) Or maybe there is a smarter way to label papers with different categories (like a paper can be RGB + using Quadrics + ...)? 
+
 ### 2022
 
 - Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/rpng/suo_slam)
+- SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints. [\[PDF\]](https://arxiv.org/pdf/2109.04884.pdf) [\[Code\]](https://github.com/XunshanMan/SoSLAM)
 
 ### 2021
 
