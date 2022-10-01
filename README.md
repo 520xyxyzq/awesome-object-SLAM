@@ -13,7 +13,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 [TODO] Is it better to list them in the order of category->year->paper? But still not sure what's the best way to categorize them... (object representation? sensors?) Or maybe there is a smarter way to label papers with different categories (like a paper can be RGB + using Quadrics + ...)? 
 
-[TODO] I think we need a more explicit decision boundary for what can be considered as object SLAM. Object SLAM in my opinion is `the process of building a 3D object-level environment map from local object-centric observations`. But there are some grey areas like dynamic object tracking v.s. dynamic SLAM.
+[TODO] I think we need a more explicit decision boundary for what can be considered as object SLAM. Object SLAM, loosely speaking, is _the process of building a 3D object-level environment map from local object-centric observations_. But there are some grey areas like multi-object tracking (3D) or object-centric multi-view stereo. Also does semantic mapping count, or we have to jointly optimize camera and object states? I personally don't want this list to be super long. It's going to be hard to maintain...
 
 [NOTE] Format for now: All-caps title, after which we add PDF/Code/Video/ProjPage. In each year, papers are sorted in alphabetic order. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
 
@@ -31,6 +31,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 ### 2020
 
 - EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association. [\[PDF\]](https://arxiv.org/pdf/2004.12730.pdf) [\[Code\]](https://github.com/yanmin-wu/EAO-SLAM) [\[Video\]](https://www.youtube.com/watch?v=pvwdQoV1KBI&ab_channel=YanminWu) [\[Project Page\]](https://yanmin-wu.github.io/project/eaoslam/)
+- Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. [\[PDF\]](https://arxiv.org/pdf/1910.02490.pdf) [\[Code\]](https://github.com/MIT-SPARK/Kimera) [\[Video\]](https://www.youtube.com/watch?v=-5XxXRABXJs&ab_channel=MITSPARKLab)
 - NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2004.04485.pdf) [\[Video\]](https://www.youtube.com/watch?v=zPzMtXU-0JE&ab_channel=DysonRoboticsLaboratoryatImperialCollege) [\[Project Page\]](https://edgarsucar.github.io/NodeSLAM/)
 
 ### 2019
