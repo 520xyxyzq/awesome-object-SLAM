@@ -13,6 +13,8 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 [TODO] Is it better to list them in the order of category->year->paper? But still not sure what's the best way to categorize them... (object representation? sensors?) Or maybe there is a smarter way to label papers with different categories (like a paper can be RGB + using Quadrics + ...)? 
 
+[TODO] I think we need a more explicit decision boundary for what can be considered as object SLAM. Object SLAM in my opinion is `the process of building a 3D object-level environment map from local object-centric observations`. But there are some grey areas like dynamic object tracking v.s. dynamic SLAM.
+
 [NOTE] Format for now: All-caps title, after which we add PDF/Code/Video/ProjPage. In each year, papers are sorted in alphabetic order. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
 
 ### 2022
@@ -24,6 +26,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 - Compositional and Scalable Object SLAM. [\[PDF\]](https://akashsharma02.github.io/assets/pdf/Sharma21icra.pdf) [\[Code\]](https://github.com/rpl-cmu/object-slam)
 - Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM. [\[PDF\]](https://arxiv.org/pdf/2107.09265.pdf) [\[Video\]](https://www.youtube.com/watch?v=506VSt0tq4o&ab_channel=MITMarineRoboticsGroup)
+- DSP-SLAM: Object Oriented SLAM with Deep Shape Priors. [\[PDF\]](https://arxiv.org/abs/2108.09481) [\[Code\]](https://github.com/JingwenWang95/DSP-SLAM) [\[Video\]](https://youtu.be/of4ANH24LP4) [\[Project Page\]](https://jingwenwang95.github.io/dsp-slam/)
 
 ### 2020
 
