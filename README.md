@@ -13,7 +13,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 [TODO] Is it better to list them in the order of category->year->paper? But still not sure what's the best way to categorize them... (object representation? sensors?) Or maybe there is a smarter way to label papers with different categories (like a paper can be RGB + using Quadrics + ...)? 
 
-[TODO] I think we need a more explicit decision boundary for what can be considered as object SLAM. Object SLAM, loosely speaking, is _the process of building a 3D object-level environment map from local object-centric observations_. But there are some grey areas like multi-object tracking (3D) or object-centric multi-view stereo. Also does semantic mapping count, or we have to jointly optimize camera and object states? I personally don't want this list to be super long. It's going to be hard to maintain...
+[TODO] I think we need a more explicit decision boundary for what can be considered as object SLAM. Object SLAM, loosely speaking, is _the process of building a 3D object-level global environment map from local object-centric observations_. But there are some grey areas like multi-object tracking (3D) or object-centric multi-view stereo. Also does semantic mapping count, or we have to jointly optimize camera and object states? I personally don't want this list to be super long. It's going to be difficult to maintain and won't be very helpful.
 
 [NOTE] Format for now: All-caps title, after which we add PDF/Code/Video/ProjPage. In each year, papers are sorted in alphabetic order. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
 
@@ -38,6 +38,10 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 - CubeSLAM: Monocular 3D Object SLAM. [\[PDF\]](https://arxiv.org/pdf/1806.00557.pdf) [\[Code\]](https://github.com/shichaoy/cube_slam) [\[Video\]](https://www.youtube.com/watch?v=QnVlexXi9_c&ab_channel=ShichaoYang)
 - QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-Oriented SLAM. [\[PDF\]](https://natanaso.github.io/rcw-icra18/assets/ref/ICRA-MRP18_paper_14.pdf) [\[Code\]](https://github.com/qcr/quadricslam) [\[Video\]](https://www.youtube.com/watch?v=n-j0DFDFSKU&ab_channel=LachlanNicholson)
 - Robust Object-based SLAM for High-Speed Autonomous Navigation. [\[PDF\]](https://groups.csail.mit.edu/rrg/papers/OkLiu19icra.pdf)
+
+### 2018
+- Fusion++: Volumetric Object-Level SLAM. [\[PDF\]](https://arxiv.org/pdf/1808.08378.pdf) [\[Video\]](https://www.youtube.com/watch?v=2luKNC03x4k)
+
 
 [TODO] Before a certain year?
 ### 2013
