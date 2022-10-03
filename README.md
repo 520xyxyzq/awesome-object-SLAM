@@ -33,6 +33,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 - EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association. [\[PDF\]](https://arxiv.org/pdf/2004.12730.pdf) [\[Code\]](https://github.com/yanmin-wu/EAO-SLAM) [\[Video\]](https://www.youtube.com/watch?v=pvwdQoV1KBI&ab_channel=YanminWu) [\[Project Page\]](https://yanmin-wu.github.io/project/eaoslam/)
 - Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. [\[PDF\]](https://arxiv.org/pdf/1910.02490.pdf) [\[Code\]](https://github.com/MIT-SPARK/Kimera) [\[Video\]](https://www.youtube.com/watch?v=-5XxXRABXJs&ab_channel=MITSPARKLab)
 - NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2004.04485.pdf) [\[Video\]](https://www.youtube.com/watch?v=zPzMtXU-0JE&ab_channel=DysonRoboticsLaboratoryatImperialCollege) [\[Project Page\]](https://edgarsucar.github.io/NodeSLAM/)
+- Probabilistic Data Association via Mixture Models for Robust Semantic SLAM. [\[PDF\]](https://arxiv.org/pdf/1909.11213.pdf) [\[Video\]](https://www.youtube.com/watch?v=Eq_w8zOXCF4&ab_channel=MITMarineRoboticsGroup)
 
 ### 2019
 - CubeSLAM: Monocular 3D Object SLAM. [\[PDF\]](https://arxiv.org/pdf/1806.00557.pdf) [\[Code\]](https://github.com/shichaoy/cube_slam) [\[Video\]](https://www.youtube.com/watch?v=QnVlexXi9_c&ab_channel=ShichaoYang)
