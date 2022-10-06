@@ -18,7 +18,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 [NOTE] Format for now: All-caps title, after which we add PDF/Code/Video/ProjPage. In each year, papers are sorted in alphabetic order. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
 
 ### 2022
-
+- Learning to Complete Object Shapes for Object-level Mapping in Dynamic Scenes. [\[PDF\]](https://arxiv.org/pdf/2208.05067.pdf) [\[Video\]](https://www.youtube.com/watch?v=mH22H7jp1D8&ab_channel=SmartRoboticsLab) [\[Project Page\]](https://mlr.in.tum.de/research/projects/cosom)
 - SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints. [\[PDF\]](https://arxiv.org/pdf/2109.04884.pdf) [\[Code\]](https://github.com/XunshanMan/SoSLAM)
 - Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/rpng/suo_slam)
 
