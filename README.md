@@ -22,7 +22,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 
 
-#### Parametric representations (Sparse)
+#### Parametric representation (Sparse)
 
 #### 2022
 
@@ -42,7 +42,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 #### 2013
 - SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. [\[PDF\]](https://www.doc.ic.ac.uk/~ajd/Publications/salas-moreno_etal_cvpr2013.pdf) [\[Video\]](https://www.youtube.com/watch?v=tmrAh1CqCRo&ab_channel=imperialrobotvision)
 
-#### Field representation in Object space (Dense 3D Grids)
+#### Field representation (Dense 3D Grids)
 
 #### 2022
 
@@ -79,5 +79,5 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 ## Resources
 
-
+- Add Datasets here
 
