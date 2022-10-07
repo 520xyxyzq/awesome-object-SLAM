@@ -26,6 +26,10 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 - SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints. [\[PDF\]](https://arxiv.org/pdf/2109.04884.pdf) [\[Code\]](https://github.com/XunshanMan/SoSLAM)
 - Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/rpng/suo_slam)
 
+#### 2021
+
+- A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM. [\[PDF\]](https://arxiv.org/pdf/2108.01225.pdf) [\[Video\]](https://www.youtube.com/watch?v=O3wzdGToh-8&ab_channel=MITMarineRoboticsGroup)
+
 #### 2020
 
 - EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association. [\[PDF\]](https://arxiv.org/pdf/2004.12730.pdf) [\[Code\]](https://github.com/yanmin-wu/EAO-SLAM) [\[Project Page\]](https://yanmin-wu.github.io/project/eaoslam/)
@@ -75,7 +79,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 #### 2019
 
-- Multimodal Semantic SLAM with Probabilistic Data Association. [\[PDF\]](https://www.researchgate.net/profile/Kevin-Doherty-14/publication/335142963_Multimodal_Semantic_SLAM_with_Probabilistic_Data_Association/links/607cdef3881fa114b411050e/Multimodal-Semantic-SLAM-with-Probabilistic-Data-Association.pdf) [\[Video\]](https://www.youtube.com/watch?v=9hEonD8KDrs&ab_channel=MITMarineRoboticsGroup)
+- Multimodal Semantic SLAM with Probabilistic Data Association. [\[PDF\]](https://dspace.mit.edu/bitstream/handle/1721.1/137995/doherty_icra2019_revised.pdf?sequence=2&isAllowed=y) [\[Video\]](https://www.youtube.com/watch?v=9hEonD8KDrs&ab_channel=MITMarineRoboticsGroup)
 
 #### 2018
 
