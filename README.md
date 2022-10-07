@@ -75,6 +75,11 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 - Probabilistic Data Association via Mixture Models for Robust Semantic SLAM. [\[PDF\]](https://arxiv.org/pdf/1909.11213.pdf) [\[Video\]](https://www.youtube.com/watch?v=Eq_w8zOXCF4&ab_channel=MITMarineRoboticsGroup)
 
+#### 2019
+
+- Multimodal Semantic SLAM with Probabilistic Data Association. [\[PDF\]](https://www.researchgate.net/profile/Kevin-Doherty-14/publication/335142963_Multimodal_Semantic_SLAM_with_Probabilistic_Data_Association/links/607cdef3881fa114b411050e/Multimodal-Semantic-SLAM-with-Probabilistic-Data-Association.pdf) [\[Video\]](https://www.youtube.com/watch?v=9hEonD8KDrs&ab_channel=MITMarineRoboticsGroup)
+
+
 ----------------------
 
 ## Resources
