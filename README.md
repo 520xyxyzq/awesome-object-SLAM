@@ -11,43 +11,71 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 ## Papers
 
-[TODO] Is it better to list them in the order of category->year->paper? But still not sure what's the best way to categorize them... (object representation? sensors?) Or maybe there is a smarter way to label papers with different categories (like a paper can be RGB + using Quadrics + ...)? 
+[TODO] Is it better to list them in the order of category->year->paper? But still not sure what's the best way to categorize them... (object representation? sensors?) Or maybe there is a smarter way to label papers with different categories (like a paper can be RGB + using Quadrics + ...)?
 
 [TODO] I think we need a more explicit decision boundary for what can be considered as object SLAM. Object SLAM, loosely speaking, is _the process of building a 3D object-level global environment map from local object-centric observations_. But there are some grey areas like multi-object tracking (3D) or object-centric multi-view stereo. Also does semantic mapping count, or we have to jointly optimize camera and object states? I personally don't want this list to be super long. It's going to be difficult to maintain and won't be very helpful.
 
 [NOTE] Format for now: All-caps title, after which we add PDF/Code/Video/ProjPage. In each year, papers are sorted in alphabetic order. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
 
-### 2022
-- Learning to Complete Object Shapes for Object-level Mapping in Dynamic Scenes. [\[PDF\]](https://arxiv.org/pdf/2208.05067.pdf) [\[Video\]](https://www.youtube.com/watch?v=mH22H7jp1D8&ab_channel=SmartRoboticsLab) [\[Project Page\]](https://mlr.in.tum.de/research/projects/cosom)
-- SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints. [\[PDF\]](https://arxiv.org/pdf/2109.04884.pdf) [\[Code\]](https://github.com/XunshanMan/SoSLAM)
+### Object representation
+
+
+
+
+#### Parametric representations (Sparse)
+
+#### 2022
+
 - Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/rpng/suo_slam)
+- SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints. [\[PDF\]](https://arxiv.org/pdf/2109.04884.pdf) [\[Code\]](https://github.com/XunshanMan/SoSLAM)
 
-### 2021
-
-- Compositional and Scalable Object SLAM. [\[PDF\]](https://akashsharma02.github.io/assets/pdf/Sharma21icra.pdf) [\[Code\]](https://github.com/rpl-cmu/object-slam)
-- Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM. [\[PDF\]](https://arxiv.org/pdf/2107.09265.pdf) [\[Video\]](https://www.youtube.com/watch?v=506VSt0tq4o&ab_channel=MITMarineRoboticsGroup)
-- DSP-SLAM: Object Oriented SLAM with Deep Shape Priors. [\[PDF\]](https://arxiv.org/abs/2108.09481) [\[Code\]](https://github.com/JingwenWang95/DSP-SLAM) [\[Video\]](https://youtu.be/of4ANH24LP4) [\[Project Page\]](https://jingwenwang95.github.io/dsp-slam/)
-
-### 2020
+#### 2020
 
 - EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association. [\[PDF\]](https://arxiv.org/pdf/2004.12730.pdf) [\[Code\]](https://github.com/yanmin-wu/EAO-SLAM) [\[Video\]](https://www.youtube.com/watch?v=pvwdQoV1KBI&ab_channel=YanminWu) [\[Project Page\]](https://yanmin-wu.github.io/project/eaoslam/)
-- Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. [\[PDF\]](https://arxiv.org/pdf/1910.02490.pdf) [\[Code\]](https://github.com/MIT-SPARK/Kimera) [\[Video\]](https://www.youtube.com/watch?v=-5XxXRABXJs&ab_channel=MITSPARKLab)
-- NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2004.04485.pdf) [\[Video\]](https://www.youtube.com/watch?v=zPzMtXU-0JE&ab_channel=DysonRoboticsLaboratoryatImperialCollege) [\[Project Page\]](https://edgarsucar.github.io/NodeSLAM/)
-- Probabilistic Data Association via Mixture Models for Robust Semantic SLAM. [\[PDF\]](https://arxiv.org/pdf/1909.11213.pdf) [\[Video\]](https://www.youtube.com/watch?v=Eq_w8zOXCF4&ab_channel=MITMarineRoboticsGroup)
 
-### 2019
+#### 2019
+
 - CubeSLAM: Monocular 3D Object SLAM. [\[PDF\]](https://arxiv.org/pdf/1806.00557.pdf) [\[Code\]](https://github.com/shichaoy/cube_slam) [\[Video\]](https://www.youtube.com/watch?v=QnVlexXi9_c&ab_channel=ShichaoYang)
-- Deep-SLAM++: Object-level RGBD SLAM based on class-specific deep shape priors. [\[PDF\]](https://arxiv.org/pdf/1907.09691.pdf)
 - QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-Oriented SLAM. [\[PDF\]](https://natanaso.github.io/rcw-icra18/assets/ref/ICRA-MRP18_paper_14.pdf) [\[Code\]](https://github.com/qcr/quadricslam) [\[Video\]](https://www.youtube.com/watch?v=n-j0DFDFSKU&ab_channel=LachlanNicholson)
 - Robust Object-based SLAM for High-Speed Autonomous Navigation. [\[PDF\]](https://groups.csail.mit.edu/rrg/papers/OkLiu19icra.pdf)
 
-### 2018
+#### 2013
+- SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. [\[PDF\]](https://www.doc.ic.ac.uk/~ajd/Publications/salas-moreno_etal_cvpr2013.pdf) [\[Video\]](https://www.youtube.com/watch?v=tmrAh1CqCRo&ab_channel=imperialrobotvision)
+
+#### Field representation in Object space (Dense 3D Grids)
+
+#### 2022
+
+- Learning to Complete Object Shapes for Object-level Mapping in Dynamic Scenes. [\[PDF\]](https://arxiv.org/pdf/2208.05067.pdf) [\[Video\]](https://www.youtube.com/watch?v=mH22H7jp1D8&ab_channel=SmartRoboticsLab) [\[Project Page\]](https://mlr.in.tum.de/research/projects/cosom)
+
+#### 2021
+
+- Compositional and Scalable Object SLAM. [\[PDF\]](https://akashsharma02.github.io/assets/pdf/Sharma21icra.pdf) [\[Code\]](https://github.com/rpl-cmu/object-slam)
+- DSP-SLAM: Object Oriented SLAM with Deep Shape Priors. [\[PDF\]](https://arxiv.org/abs/2108.09481) [\[Code\]](https://github.com/JingwenWang95/DSP-SLAM) [\[Video\]](https://youtu.be/of4ANH24LP4) [\[Project Page\]](https://jingwenwang95.github.io/dsp-slam/)
+
+#### 2020
+
+- NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2004.04485.pdf) [\[Video\]](https://www.youtube.com/watch?v=zPzMtXU-0JE&ab_channel=DysonRoboticsLaboratoryatImperialCollege) [\[Project Page\]](https://edgarsucar.github.io/NodeSLAM/)
+
+#### 2019
+
+- Deep-SLAM++: Object-level RGBD SLAM based on class-specific deep shape priors. [\[PDF\]](https://arxiv.org/pdf/1907.09691.pdf)
+
+#### 2018
+
 - Fusion++: Volumetric Object-Level SLAM. [\[PDF\]](https://arxiv.org/pdf/1808.08378.pdf) [\[Video\]](https://www.youtube.com/watch?v=2luKNC03x4k)
 
 
-[TODO] Before a certain year?
-### 2013
-- SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. [\[PDF\]](https://www.doc.ic.ac.uk/~ajd/Publications/salas-moreno_etal_cvpr2013.pdf) [\[Video\]](https://www.youtube.com/watch?v=tmrAh1CqCRo&ab_channel=imperialrobotvision)
+### Inference methods for Object SLAM
+#### 2021
+
+- Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM. [\[PDF\]](https://arxiv.org/pdf/2107.09265.pdf) [\[Video\]](https://www.youtube.com/watch?v=506VSt0tq4o&ab_channel=MITMarineRoboticsGroup)
+
+#### 2020
+
+- Probabilistic Data Association via Mixture Models for Robust Semantic SLAM. [\[PDF\]](https://arxiv.org/pdf/1909.11213.pdf) [\[Video\]](https://www.youtube.com/watch?v=Eq_w8zOXCF4&ab_channel=MITMarineRoboticsGroup)
+
+----------------------
 
 ## Resources
 
