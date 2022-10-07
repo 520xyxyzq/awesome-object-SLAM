@@ -79,6 +79,14 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 - Multimodal Semantic SLAM with Probabilistic Data Association. [\[PDF\]](https://www.researchgate.net/profile/Kevin-Doherty-14/publication/335142963_Multimodal_Semantic_SLAM_with_Probabilistic_Data_Association/links/607cdef3881fa114b411050e/Multimodal-Semantic-SLAM-with-Probabilistic-Data-Association.pdf) [\[Video\]](https://www.youtube.com/watch?v=9hEonD8KDrs&ab_channel=MITMarineRoboticsGroup)
 
+#### 2018
+
+- A Unifying View of Geometry, Semantics, and Data Association in SLAM. [\[PDF\]](https://existentialrobotics.org/ref/Atanasov_SemanticSLAM_IJCAI18.pdf) [\[Video\]](https://existentialrobotics.org/vid/Bowman_SemanticSLAM_ICRA17.mp4#t=145)
+
+
+#### 2017
+
+- Probabilistic Data Association for Semantic SLAM. [\[PDF\]](https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf)
 
 ----------------------
 
