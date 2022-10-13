@@ -3,7 +3,7 @@
 
 A curated list of Object SLAM papers and resources
 
-Object SLAM, loosely speaking, is _the process of building a 3D object-level global environment map from local observations_. In this list, we consider papers that jointly and simultaneously optimize robot (camera) and object states. Dynamic 3D object tracking and semantic mapping are not included in the list. For more general SLAM papers, please refer to [awesome-visual-SLAM](
+Object SLAM, loosely speaking, is _the process of building a 3D object-level global environment map from local observations_. In this list, we consider papers that jointly and simultaneously optimize robot (camera) and object states. Dynamic 3D object tracking and semantic mapping are not included. For more general SLAM papers, please refer to [awesome-visual-SLAM](
 awesome-visual-slam) and [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM).
 
 This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash Sharma](https://github.com/akashsharma02). You are very welcome to contribute to this repo. If you spot anything wrong or missing, please feel free to [submit](https://github.com/520xyxyzq/awesome-object-SLAM/pulls) a PR or contact the maintainers.
@@ -16,7 +16,7 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 
 [TODO] I think we need a more explicit decision boundary for what can be considered as object SLAM. Object SLAM, loosely speaking, is _the process of building a 3D object-level global environment map from local object-centric observations_. But there are some grey areas like multi-object tracking (3D) or object-centric multi-view stereo. Also does semantic mapping count, or we have to jointly optimize camera and object states? I personally don't want this list to be super long. It's going to be difficult to maintain and won't be very helpful.
 
-[NOTE] Format for now: All-caps title, after which we add PDF/Code/Video/ProjPage. (No Video if ProjPage exists) In each year, papers are sorted in alphabetic order. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
+[NOTE] Format for now: All-caps title, after which we add PDF/Code/Video or ProjPage. In each year, papers are sorted in alphabetic order. For non-opensource papers (like ICRA), I was using non-offical links (like ArXiv).
 
 ### Object representation
 
