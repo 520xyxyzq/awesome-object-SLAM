@@ -95,9 +95,11 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 ## Resources
 
-## Datasets
+### Datasets
 
-- KITTI(https://www.cvlibs.net/datasets/kitti/index.php)
-- Cityscapes(https://www.cityscapes-dataset.com/)
-- YCB-Video(https://rse-lab.cs.washington.edu/projects/posecnn/)
+- [ApolloScape](http://apolloscape.auto/)
+- [Cityscapes](https://www.cityscapes-dataset.com/)
+- [KITTI](https://www.cvlibs.net/datasets/kitti/index.php)
+- [TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/download)
+- [YCB-Video](https://rse-lab.cs.washington.edu/projects/posecnn/)
 
