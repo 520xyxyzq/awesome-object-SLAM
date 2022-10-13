@@ -3,10 +3,9 @@
 
 A curated list of Object SLAM papers and resources
 
-Object SLAM, loosely speaking, is _the process of building a 3D object-level global environment map from local observations_. In this list, we consider papers that jointly and simultaneously optimize robot (camera) and object states. Dynamic 3D object tracking and semantic mapping are not included. For more general SLAM papers, please refer to [awesome-visual-SLAM](
-awesome-visual-slam) and [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM).
+Object SLAM, loosely speaking, is _the process of building a 3D object-level global environment map from local observations_. In this list, we only consider papers that _jointly_ and simultaneously optimize robot (camera) and object states. For more general SLAM papers, please refer to [awesome-visual-SLAM](https://github.com/tzutalin/awesome-visual-slam) and [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM).
 
-This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash Sharma](https://github.com/akashsharma02). You are very welcome to contribute to this repo. If you spot anything wrong or missing, please feel free to [submit](https://github.com/520xyxyzq/awesome-object-SLAM/pulls) a PR or contact the maintainers.
+This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash Sharma](https://github.com/akashsharma02). You are very welcome to contribute to this repo. If you spot anything wrong or missing, please feel free to [submit a pull request](https://github.com/520xyxyzq/awesome-object-SLAM/pulls) or contact the maintainers.
 
 ## Table of Contents
 
