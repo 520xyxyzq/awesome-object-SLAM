@@ -100,6 +100,7 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 - [ApolloScape](http://apolloscape.auto/)
 - [Cityscapes](https://www.cityscapes-dataset.com/)
 - [KITTI](https://www.cvlibs.net/datasets/kitti/index.php)
+- [Microsoft-RGBD](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/)
 - [TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/download)
 - [YCB-Video](https://rse-lab.cs.washington.edu/projects/posecnn/)
 
