@@ -95,5 +95,9 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 
 ## Resources
 
-- Add Datasets here
+## Datasets
+
+- KITTI(https://www.cvlibs.net/datasets/kitti/index.php)
+- Cityscapes(https://www.cityscapes-dataset.com/)
+- YCB-Video(https://rse-lab.cs.washington.edu/projects/posecnn/)
 
