@@ -102,5 +102,6 @@ You are very welcome to contribute to this repo. Please feel free to [submit](ht
 - [KITTI](https://www.cvlibs.net/datasets/kitti/index.php)
 - [Microsoft-RGBD](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/)
 - [TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/download)
+- [UW RGBD](https://rgbd-dataset.cs.washington.edu/)
 - [YCB-Video](https://rse-lab.cs.washington.edu/projects/posecnn/)
 
