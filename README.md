@@ -69,6 +69,10 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 - Fusion++: Volumetric Object-Level SLAM. [\[PDF\]](https://arxiv.org/pdf/1808.08378.pdf) [\[Video\]](https://www.youtube.com/watch?v=2luKNC03x4k)
 - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects. [\[PDF\]](https://arxiv.org/pdf/1804.09194.pdf) [\[Code\]](https://github.com/martinruenz/maskfusion) [\[Project Page\]](http://visual.cs.ucl.ac.uk/pubs/maskfusion/index.html)
 
+#### 2017
+
+- Co-Fusion: : Real-time Segmentation, Tracking and Fusion of Multiple Objects. [\[PDF\]](http://visual.cs.ucl.ac.uk/pubs/cofusion/icra2017_co-fusion_web.pdf) [\[Code\]](https://github.com/martinruenz/co-fusion) [\[Project Page\]](http://visual.cs.ucl.ac.uk/pubs/cofusion/index.html)
+
 ### Inference methods for Object SLAM
 #### 2021
 
