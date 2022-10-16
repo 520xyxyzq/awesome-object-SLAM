@@ -42,6 +42,10 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 - QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-Oriented SLAM. [\[PDF\]](https://natanaso.github.io/rcw-icra18/assets/ref/ICRA-MRP18_paper_14.pdf) [\[Code\]](https://github.com/qcr/quadricslam) [\[Video\]](https://www.youtube.com/watch?v=n-j0DFDFSKU&ab_channel=LachlanNicholson)
 - Robust Object-based SLAM for High-Speed Autonomous Navigation. [\[PDF\]](https://groups.csail.mit.edu/rrg/papers/OkLiu19icra.pdf)
 
+#### 2016
+
+- Real-Time Monocular Object SLAM. [\[PDF\]](https://arxiv.org/pdf/1504.02398.pdf) [\[Video\]](https://www.youtube.com/watch?v=wjCK4OTRRO0&ab_channel=dorian3d)
+
 #### 2013
 - SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. [\[PDF\]](https://www.doc.ic.ac.uk/~ajd/Publications/salas-moreno_etal_cvpr2013.pdf) [\[Video\]](https://www.youtube.com/watch?v=tmrAh1CqCRo&ab_channel=imperialrobotvision)
 
@@ -62,7 +66,7 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 
 #### 2019
 
-- Deep-SLAM++: Object-level RGBD SLAM based on class-specific deep shape priors. [\[PDF\]](https://arxiv.org/pdf/1907.09691.pdf)
+- Deep-SLAM++: Object-Level RGBD SLAM based on Class-Specific Deep Shape Priors. [\[PDF\]](https://arxiv.org/pdf/1907.09691.pdf)
 
 #### 2018
 
