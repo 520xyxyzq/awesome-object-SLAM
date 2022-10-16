@@ -24,6 +24,7 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 #### 2022
 
 - SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints. [\[PDF\]](https://arxiv.org/pdf/2109.04884.pdf) [\[Code\]](https://github.com/XunshanMan/SoSLAM)
+- SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation. [\[PDF\]](https://arxiv.org/pdf/2209.10817.pdf) [\[Video\]]
 - Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/rpng/suo_slam)
 
 #### 2021
@@ -67,7 +68,7 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 
 #### 2019
 
-- Deep-SLAM++: Object-Level RGBD SLAM based on Class-Specific Deep Shape Priors. [\[PDF\]](https://arxiv.org/pdf/1907.09691.pdf)
+- Deep-SLAM++: Object-Level RGBD SLAM Based on Class-Specific Deep Shape Priors. [\[PDF\]](https://arxiv.org/pdf/1907.09691.pdf)
 
 #### 2018
 
