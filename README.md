@@ -3,7 +3,7 @@
 
 A curated list of Object SLAM papers and resources
 
-Object SLAM, loosely speaking, is _the process of building a 3D object-level global environment map from local observations_. In this list, we only consider papers that _jointly_ and simultaneously optimize robot (camera) and object states. For more general SLAM papers, please refer to [awesome-visual-SLAM](https://github.com/tzutalin/awesome-visual-slam) and [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM).
+Object SLAM, loosely speaking, is _the process of building a 3D object-level global environment map from local observations_. In this list, we consider papers that _jointly_ optimize robot (camera) and object states. For more general SLAM papers, please refer to [awesome-visual-SLAM](https://github.com/tzutalin/awesome-visual-slam) and [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM).
 
 This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash Sharma](https://github.com/akashsharma02). You are very welcome to contribute to this repo. If you spot anything wrong or missing, please feel free to [submit a pull request](https://github.com/520xyxyzq/awesome-object-SLAM/pulls) or contact the maintainers.
 
@@ -39,6 +39,7 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 #### 2019
 
 - CubeSLAM: Monocular 3D Object SLAM. [\[PDF\]](https://arxiv.org/pdf/1806.00557.pdf) [\[Code\]](https://github.com/shichaoy/cube_slam) [\[Video\]](https://www.youtube.com/watch?v=QnVlexXi9_c&ab_channel=ShichaoYang)
+- Monocular Object and Plane SLAM in Structured Environments. [\[PDF\]](https://arxiv.org/pdf/1809.03415.pdf) [\[Video\]](https://www.youtube.com/watch?v=jzBMsKCm0uk&ab_channel=ShichaoYang)
 - QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-Oriented SLAM. [\[PDF\]](https://natanaso.github.io/rcw-icra18/assets/ref/ICRA-MRP18_paper_14.pdf) [\[Code\]](https://github.com/qcr/quadricslam) [\[Video\]](https://www.youtube.com/watch?v=n-j0DFDFSKU&ab_channel=LachlanNicholson)
 - Robust Object-based SLAM for High-Speed Autonomous Navigation. [\[PDF\]](https://groups.csail.mit.edu/rrg/papers/OkLiu19icra.pdf)
 
