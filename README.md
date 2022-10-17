@@ -14,7 +14,11 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 
 - [What is Object SLAM](#what-is-object-slam?)
 - [Papers](#papers)
+  - [Parametric Object Representation](#parametric-object-representation-cubesquadrics6dof-poseetc)
+  - [Field Object Representation](#field-object-representation-neural-fieldsdense-gridsetc)
+  - [Inference Methods for Object SLAM](#inference-methods-for-object-slam)
 - [Resources](#resources)
+  - [Datasets](#datasets)
 
 
 ## What is Object SLAM?
@@ -66,7 +70,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - Towards Semantic SLAM using a Monocular Camera. [\[PDF\]](http://doriangalvez.com/papers/CiveraIROS11.pdf) [\[Video\]](https://www.youtube.com/watch?v=_rF2eOOEzEw&ab_channel=dorian3d) [\[Video\]](https://www.youtube.com/watch?v=1a-GvSQETJ8&ab_channel=dorian3d)
 
 
-### Field Object Representation (Implicit Functions/Dense Grids/etc.)
+### Field Object Representation (Neural Fields/Dense Grids/etc.)
 
 - #### 2022
 
