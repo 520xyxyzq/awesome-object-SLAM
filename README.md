@@ -40,7 +40,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment. [\[PDF\]](https://arxiv.org/pdf/2110.08977.pdf) [\[Video\]](https://www.youtube.com/watch?v=t1KQ8FhO0wo&ab_channel=SLAMer)
   - A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM. [\[PDF\]](https://arxiv.org/pdf/2108.01225.pdf) [\[Video\]](https://www.youtube.com/watch?v=O3wzdGToh-8&ab_channel=MITMarineRoboticsGroup)
   - DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM. [\[PDF\]](https://arxiv.org/pdf/2010.07820.pdf)
-  - Object-Augmented RGB-D SLAM for Wide-Disparity Relocalisation. [\[PDF\]](https://arxiv.org/pdf/2108.02522) [\[Video\]](https://www.youtube.com/watch?v=H3i9Q4JvX2o)
+  - Object-Augmented RGB-D SLAM for Wide-Disparity Relocalisation. [\[PDF\]](https://arxiv.org/pdf/2108.02522) [\[Code\]](https://github.com/YuhangMing/Object-Guided-Relocalisation) [\[Video\]](https://www.youtube.com/watch?v=H3i9Q4JvX2o)
   
 - #### 2020
   - Dynamic SLAM: The Need for Speed. [\[PDF\]](https://arxiv.org/pdf/2002.08584.pdf)
@@ -53,8 +53,8 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - CubeSLAM: Monocular 3D Object SLAM. [\[PDF\]](https://arxiv.org/pdf/1806.00557.pdf) [\[Code\]](https://github.com/shichaoy/cube_slam) [\[Video\]](https://www.youtube.com/watch?v=QnVlexXi9_c&ab_channel=ShichaoYang)
   - Monocular Object and Plane SLAM in Structured Environments. [\[PDF\]](https://arxiv.org/pdf/1809.03415.pdf) [\[Video\]](https://www.youtube.com/watch?v=jzBMsKCm0uk&ab_channel=ShichaoYang)
   - QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-Oriented SLAM. [\[PDF\]](https://natanaso.github.io/rcw-icra18/assets/ref/ICRA-MRP18_paper_14.pdf) [\[Code\]](https://github.com/qcr/quadricslam) [\[Video\]](https://www.youtube.com/watch?v=n-j0DFDFSKU&ab_channel=LachlanNicholson)
+  - Real-Time Monocular Object-Model Aware Sparse SLAM. [\[PDF\]](https://ieeexplore.ieee.org/document/8793728) [\[Video\]](https://www.youtube.com/watch?v=UMWXd4sHONw&ab_channel=MehdiHosseinzadeh)
   - Robust Object-based SLAM for High-Speed Autonomous Navigation. [\[PDF\]](https://groups.csail.mit.edu/rrg/papers/OkLiu19icra.pdf)
-  - Real-Time Monocular Object-Model Aware Sparse SLAM [\[PDF\]](https://ieeexplore.ieee.org/document/8793728)
 
 - #### 2018
 
