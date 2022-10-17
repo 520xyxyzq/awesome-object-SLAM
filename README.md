@@ -41,6 +41,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - Dynamic SLAM: The Need for Speed. [\[PDF\]](https://arxiv.org/pdf/2002.08584.pdf)
   - EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association. [\[PDF\]](https://arxiv.org/pdf/2004.12730.pdf) [\[Code\]](https://github.com/yanmin-wu/EAO-SLAM) [\[Project Page\]](https://yanmin-wu.github.io/project/eaoslam/)
   - OrcVIO: Object Residual Constrained Visual-Inertial Odometry.  [\[PDF\]](https://arxiv.org/pdf/2007.15107.pdf) [\[Code\]](https://github.com/shanmo/OrcVIO-Stereo-Mapping) [\[Project Page\]](https://moshan.cf/orcvio_githubpage/)
+  - VDO-SLAM: A Visual Dynamic Object-Aware SLAM System. [\[PDF\]](https://arxiv.org/pdf/2005.11052.pdf) [\[Code\]](https://github.com/halajun/VDO_SLAM) [\[Video\]](https://drive.google.com/file/d/1PbL4KiJ3sUhxyJSQPZmRP6mgi9dIC0iu/view)
 
 - #### 2019
 
