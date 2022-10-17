@@ -1,6 +1,6 @@
 # Awesome Object SLAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Object SLAM papers and resources, inspired by [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations)
+A curated list of Object SLAM papers and resources, inspired by [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations).
 
 ## Disclaimer
 
@@ -14,16 +14,17 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 
 - [What is Object SLAM](#what-is-object-slam?)
 - [Papers](#papers)
+- [Resources](#resources)
 
 
 ## What is Object SLAM?
 
-Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation and Mapping (SLAM) by building a _3D object-level global environment map from local observations_. To build such a map of the environment, object detection and instance segmentation networks are typically used as virtual sensors in a sensor fusion framework. Representing the 3D map with objects is interesting as it is easy to ascribe semantics to the landmarks to perform higher-level tasks such as object finding, it compresses the map by focusing compute and memory for meaningful regions, and map abstraction is also useful for other tasks such as distributed map building.
+Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation and Mapping (SLAM) by building a _3D object-level global environment map from local observations_. To build such a map of the environment, object detection, pose estimation and instance segmentation networks are typically used as virtual sensors in a sensor fusion framework. Representing the 3D map with objects is interesting as it is easy to ascribe semantics to the landmarks to perform higher-level tasks such as object manipulation, motion and task planning, etc. It compresses the map by focusing compute and memory for meaningful regions, and map abstraction is also useful for other tasks such as distributed map building.
 
 
 ## Papers
 
-### Parametric Object Representations (Cubes/Quadrics/etc.)
+### Parametric Object Representation (Cubes/Quadrics/6DoF Pose/etc.)
 
 - #### 2022
 
@@ -37,7 +38,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM. [\[PDF\]](https://arxiv.org/pdf/2010.07820.pdf)
 
 - #### 2020
-  - Dynamic SLAM: The Need for Speed [\[PDF\]](https://ieeexplore.ieee.org/document/9196895)
+  - Dynamic SLAM: The Need for Speed. [\[PDF\]](https://arxiv.org/pdf/2002.08584.pdf)
   - EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association. [\[PDF\]](https://arxiv.org/pdf/2004.12730.pdf) [\[Code\]](https://github.com/yanmin-wu/EAO-SLAM) [\[Project Page\]](https://yanmin-wu.github.io/project/eaoslam/)
   - OrcVIO: Object Residual Constrained Visual-Inertial Odometry.  [\[PDF\]](https://arxiv.org/pdf/2007.15107.pdf) [\[Code\]](https://github.com/shanmo/OrcVIO-Stereo-Mapping) [\[Project Page\]](https://moshan.cf/orcvio_githubpage/)
 
@@ -64,7 +65,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - Towards Semantic SLAM using a Monocular Camera. [\[PDF\]](http://doriangalvez.com/papers/CiveraIROS11.pdf) [\[Video\]](https://www.youtube.com/watch?v=_rF2eOOEzEw&ab_channel=dorian3d) [\[Video\]](https://www.youtube.com/watch?v=1a-GvSQETJ8&ab_channel=dorian3d)
 
 
-### Field Object representation (Implicit Functions/Dense Grids)
+### Field Object Representation (Implicit Functions/Dense Grids/etc.)
 
 - #### 2022
 
@@ -92,7 +93,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
   - Co-Fusion: : Real-time Segmentation, Tracking and Fusion of Multiple Objects. [\[PDF\]](http://visual.cs.ucl.ac.uk/pubs/cofusion/icra2017_co-fusion_web.pdf) [\[Code\]](https://github.com/martinruenz/co-fusion) [\[Project Page\]](http://visual.cs.ucl.ac.uk/pubs/cofusion/index.html)
 
-### Inference methods for Object SLAM
+### Inference Methods for Object SLAM
 
 - #### 2021
 
@@ -103,7 +104,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - Probabilistic Data Association via Mixture Models for Robust Semantic SLAM. [\[PDF\]](https://arxiv.org/pdf/1909.11213.pdf) [\[Video\]](https://www.youtube.com/watch?v=Eq_w8zOXCF4&ab_channel=MITMarineRoboticsGroup)
 
 - #### 2019
-  - EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Strecke_EM-Fusion_Dynamic_Object-Level_SLAM_With_Probabilistic_Data_Association_ICCV_2019_paper.html) [\[Project Page\]](https://emfusion.is.tue.mpg.de/)
+  - EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association. [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Strecke_EM-Fusion_Dynamic_Object-Level_SLAM_With_Probabilistic_Data_Association_ICCV_2019_paper.html) [\[Code\]](https://github.com/EmbodiedVision/emfusion) [\[Project Page\]](https://emfusion.is.tue.mpg.de/)
   - Multimodal Semantic SLAM with Probabilistic Data Association. [\[PDF\]](https://dspace.mit.edu/bitstream/handle/1721.1/137995/doherty_icra2019_revised.pdf?sequence=2&isAllowed=y) [\[Video\]](https://www.youtube.com/watch?v=9hEonD8KDrs&ab_channel=MITMarineRoboticsGroup)
 
 - #### 2018
