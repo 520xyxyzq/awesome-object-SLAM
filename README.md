@@ -40,7 +40,8 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment. [\[PDF\]](https://arxiv.org/pdf/2110.08977.pdf) [\[Video\]](https://www.youtube.com/watch?v=t1KQ8FhO0wo&ab_channel=SLAMer)
   - A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM. [\[PDF\]](https://arxiv.org/pdf/2108.01225.pdf) [\[Video\]](https://www.youtube.com/watch?v=O3wzdGToh-8&ab_channel=MITMarineRoboticsGroup)
   - DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM. [\[PDF\]](https://arxiv.org/pdf/2010.07820.pdf)
-
+  - Object-Augmented RGB-D SLAM for Wide-Disparity Relocalisation. [\[PDF\]](https://arxiv.org/pdf/2108.02522) [\[Video\]](https://www.youtube.com/watch?v=H3i9Q4JvX2o)
+  
 - #### 2020
   - Dynamic SLAM: The Need for Speed. [\[PDF\]](https://arxiv.org/pdf/2002.08584.pdf)
   - EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association. [\[PDF\]](https://arxiv.org/pdf/2004.12730.pdf) [\[Code\]](https://github.com/yanmin-wu/EAO-SLAM) [\[Project Page\]](https://yanmin-wu.github.io/project/eaoslam/)
@@ -88,6 +89,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 - #### 2019
 
   - Deep-SLAM++: Object-Level RGBD SLAM Based on Class-Specific Deep Shape Priors. [\[PDF\]](https://arxiv.org/pdf/1907.09691.pdf)
+  - MID-Fusion: Octree-based Object-Level Multi-Instance Dynamic SLAM. [\[PDF\]](https://arxiv.org/pdf/1812.07976.pdf) [\[Video\]](https://www.youtube.com/watch?v=gturboNl9gg)
 
 - #### 2018
 
