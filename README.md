@@ -55,6 +55,10 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 #### 2013
 - SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. [\[PDF\]](https://www.doc.ic.ac.uk/~ajd/Publications/salas-moreno_etal_cvpr2013.pdf) [\[Video\]](https://www.youtube.com/watch?v=tmrAh1CqCRo&ab_channel=imperialrobotvision)
 
+#### 2011
+- Towards Semantic SLAM using a Monocular Camera. [\[PDF\]](http://doriangalvez.com/papers/CiveraIROS11.pdf) [\[Video\]](https://www.youtube.com/watch?v=_rF2eOOEzEw&ab_channel=dorian3d) [\[Video\]](https://www.youtube.com/watch?v=1a-GvSQETJ8&ab_channel=dorian3d)
+
+
 #### Field representation (Dense 3D Grids)
 
 #### 2022
