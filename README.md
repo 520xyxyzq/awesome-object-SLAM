@@ -111,7 +111,7 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 
 #### 2016
 
-- SLAM with Objects using a Nonparametric Pose Graph. [\[PDF\]](https://arxiv.org/abs/1704.05959)
+- SLAM with Objects using a Nonparametric Pose Graph. [\[PDF\]](https://arxiv.org/abs/1704.05959) [\[Code\]](https://github.com/mubeipeng/objectSLAM) [\[Video\]](https://www.youtube.com/watch?v=YANUWdVLJD4&ab_channel=AerospaceControlsLab)
 
 ----------------------
 
