@@ -109,6 +109,10 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
 
 - Probabilistic Data Association for Semantic SLAM. [\[PDF\]](https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf)
 
+#### 2016
+
+- SLAM with Objects using a Nonparametric Pose Graph. [\[PDF\]](https://arxiv.org/abs/1704.05959)
+
 ----------------------
 
 ## Resources
