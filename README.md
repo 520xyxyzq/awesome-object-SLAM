@@ -32,10 +32,11 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 - #### 2022
 
+  - OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM. [\[PDF\]](https://arxiv.org/pdf/2209.08338.pdf) [\[Code\]](https://gitlab.inria.fr/tangram/oa-slam) [\[Video1\]](https://www.youtube.com/watch?v=L1HEL4kLJ3g) [\[Video2\]](https://www.youtube.com/watch?v=50zXF7Z7FLo)
   - SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints. [\[PDF\]](https://arxiv.org/pdf/2109.04884.pdf) [\[Code\]](https://github.com/XunshanMan/SoSLAM)
   - SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation. [\[PDF\]](https://arxiv.org/pdf/2209.10817.pdf)
   - Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/rpng/suo_slam)
-  - OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM. [\[PDF\]](https://arxiv.org/pdf/2209.08338.pdf) [\[Code\]](https://gitlab.inria.fr/tangram/oa-slam) [\[Video1\]](https://www.youtube.com/watch?v=L1HEL4kLJ3g) [\[Video2\]](https://www.youtube.com/watch?v=50zXF7Z7FLo)
+
 
 - #### 2021
   - Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment. [\[PDF\]](https://arxiv.org/pdf/2110.08977.pdf) [\[Video\]](https://www.youtube.com/watch?v=t1KQ8FhO0wo&ab_channel=SLAMer)
@@ -69,7 +70,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. [\[PDF\]](https://www.doc.ic.ac.uk/~ajd/Publications/salas-moreno_etal_cvpr2013.pdf) [\[Video\]](https://www.youtube.com/watch?v=tmrAh1CqCRo&ab_channel=imperialrobotvision)
 
 - #### 2011
-  - Towards Semantic SLAM using a Monocular Camera. [\[PDF\]](http://doriangalvez.com/papers/CiveraIROS11.pdf) [\[Video\]](https://www.youtube.com/watch?v=_rF2eOOEzEw&ab_channel=dorian3d) [\[Video\]](https://www.youtube.com/watch?v=1a-GvSQETJ8&ab_channel=dorian3d)
+  - Towards Semantic SLAM using a Monocular Camera. [\[PDF\]](http://doriangalvez.com/papers/CiveraIROS11.pdf) [\[Video1\]](https://www.youtube.com/watch?v=_rF2eOOEzEw&ab_channel=dorian3d) [\[Video2\]](https://www.youtube.com/watch?v=1a-GvSQETJ8&ab_channel=dorian3d)
 
 
 ### Field Object Representation (Neural Fields/Dense Grids/etc.)
