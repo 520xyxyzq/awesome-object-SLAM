@@ -70,8 +70,12 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. [\[PDF\]](https://www.doc.ic.ac.uk/~ajd/Publications/salas-moreno_etal_cvpr2013.pdf) [\[Video\]](https://www.youtube.com/watch?v=tmrAh1CqCRo&ab_channel=imperialrobotvision)
 
 - #### 2011
+  - Semantic Structure From Motion with Object and Point Interactions. [\[PDF\]](https://cvgl.stanford.edu/papers/bao_CORP2011.pdf) 
   - Towards Semantic SLAM using a Monocular Camera. [\[PDF\]](http://doriangalvez.com/papers/CiveraIROS11.pdf) [\[Video1\]](https://www.youtube.com/watch?v=_rF2eOOEzEw&ab_channel=dorian3d) [\[Video2\]](https://www.youtube.com/watch?v=1a-GvSQETJ8&ab_channel=dorian3d)
 
+
+- #### 2008
+  - Object-based Visual SLAM: How Object Identity Informs Geometry. [\[PDF\]](https://dellaert.github.io/files/Selvatici08wvc.pdf)
 
 ### Field Object Representation (Neural Fields/Dense Grids/etc.)
 
