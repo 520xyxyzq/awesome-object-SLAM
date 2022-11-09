@@ -17,6 +17,7 @@ This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash S
   - [Parametric Object Representation](#parametric-object-representation-cubesquadrics6dof-poseetc)
   - [Field Object Representation](#field-object-representation-neural-fieldsdense-gridsetc)
   - [Inference Methods for Object SLAM](#inference-methods-for-object-slam)
+  - [Reviews](#reviews)
 - [Resources](#resources)
   - [Datasets](#datasets)
 
@@ -135,6 +136,17 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 - #### 2016
 
   - SLAM with Objects using a Nonparametric Pose Graph. [\[PDF\]](https://arxiv.org/abs/1704.05959) [\[Code\]](https://github.com/mubeipeng/objectSLAM) [\[Video\]](https://www.youtube.com/watch?v=YANUWdVLJD4&ab_channel=AerospaceControlsLab)
+
+
+### Reviews
+
+- #### 2021
+  
+  - Advances in Inference and Representation for Simultaneous Localization and Mapping. [\[PDF\]](https://arxiv.org/abs/2103.05041)
+  
+- #### 2020
+
+  - Semantics for Robotic Mapping, Perception and Interaction: A Survey. [\[PDF\]](https://arxiv.org/abs/2101.00443)
 
 ----------------------
 
