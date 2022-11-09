@@ -108,6 +108,9 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 ### Inference Methods for Object SLAM
 
+- #### 2022
+  - Discrete-Continuous Smoothing and Mapping. [\[PDF\]](https://arxiv.org/abs/2204.11936) [\[Code\]](https://github.com/MarineRoboticsGroup/dcsam) [\[Video\]](https://www.youtube.com/watch?v=mUHOZRq2Cik&ab_channel=MITMarineRoboticsGroup)
+
 - #### 2021
 
   - Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM. [\[PDF\]](https://arxiv.org/pdf/2107.09265.pdf) [\[Video\]](https://www.youtube.com/watch?v=506VSt0tq4o&ab_channel=MITMarineRoboticsGroup)
