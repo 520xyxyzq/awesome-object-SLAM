@@ -156,6 +156,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 - [ApolloScape](http://apolloscape.auto/)
 - [Cityscapes](https://www.cityscapes-dataset.com/)
+- [ICL-NUIM](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html)
 - [KITTI](https://www.cvlibs.net/datasets/kitti/index.php)
 - [Microsoft-RGBD](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/)
 - [NYU Depth v2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
