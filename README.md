@@ -34,7 +34,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 - #### 2022
 
   - LayoutSLAM: Object Layout based Simultaneous Localization and Mapping for Reducing Object Map Distortion. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/9981492)
-  
+
   - OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM. [\[PDF\]](https://arxiv.org/pdf/2209.08338.pdf) [\[Code\]](https://gitlab.inria.fr/tangram/oa-slam) [\[Video1\]](https://www.youtube.com/watch?v=L1HEL4kLJ3g) [\[Video2\]](https://www.youtube.com/watch?v=50zXF7Z7FLo)
   - SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints. [\[PDF\]](https://arxiv.org/pdf/2109.04884.pdf) [\[Code\]](https://github.com/XunshanMan/SoSLAM)
   - SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation. [\[PDF\]](https://arxiv.org/pdf/2209.10817.pdf)
@@ -42,11 +42,12 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 
 - #### 2021
+  - BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models. [\[PDF\]](https://arxiv.org/pdf/2108.00516.pdf) [\[Code\]](https://github.com/wenbowen123/BundleTrack) [\[Video\]](https://www.youtube.com/watch?v=0UorLR0ADd4)
   - Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment. [\[PDF\]](https://arxiv.org/pdf/2110.08977.pdf) [\[Video\]](https://www.youtube.com/watch?v=t1KQ8FhO0wo&ab_channel=SLAMer)
   - A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM. [\[PDF\]](https://arxiv.org/pdf/2108.01225.pdf) [\[Video\]](https://www.youtube.com/watch?v=O3wzdGToh-8&ab_channel=MITMarineRoboticsGroup)
   - DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM. [\[PDF\]](https://arxiv.org/pdf/2010.07820.pdf)
   - Object-Augmented RGB-D SLAM for Wide-Disparity Relocalisation. [\[PDF\]](https://arxiv.org/pdf/2108.02522) [\[Code\]](https://github.com/YuhangMing/Object-Guided-Relocalisation) [\[Video\]](https://www.youtube.com/watch?v=H3i9Q4JvX2o)
-  
+
 - #### 2020
   - Dynamic SLAM: The Need for Speed. [\[PDF\]](https://arxiv.org/pdf/2002.08584.pdf)
   - EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association. [\[PDF\]](https://arxiv.org/pdf/2004.12730.pdf) [\[Code\]](https://github.com/yanmin-wu/EAO-SLAM) [\[Project Page\]](https://yanmin-wu.github.io/project/eaoslam/)
@@ -73,7 +74,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. [\[PDF\]](https://www.doc.ic.ac.uk/~ajd/Publications/salas-moreno_etal_cvpr2013.pdf) [\[Video\]](https://www.youtube.com/watch?v=tmrAh1CqCRo&ab_channel=imperialrobotvision)
 
 - #### 2011
-  - Semantic Structure From Motion with Object and Point Interactions. [\[PDF\]](https://cvgl.stanford.edu/papers/bao_CORP2011.pdf) 
+  - Semantic Structure From Motion with Object and Point Interactions. [\[PDF\]](https://cvgl.stanford.edu/papers/bao_CORP2011.pdf)
   - Towards Semantic SLAM using a Monocular Camera. [\[PDF\]](http://doriangalvez.com/papers/CiveraIROS11.pdf) [\[Video1\]](https://www.youtube.com/watch?v=_rF2eOOEzEw&ab_channel=dorian3d) [\[Video2\]](https://www.youtube.com/watch?v=1a-GvSQETJ8&ab_channel=dorian3d)
 
 
@@ -143,9 +144,9 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 ### Reviews
 
 - #### 2021
-  
+
   - Advances in Inference and Representation for Simultaneous Localization and Mapping. [\[PDF\]](https://arxiv.org/abs/2103.05041)
-  
+
 - #### 2020
 
   - Semantics for Robotic Mapping, Perception and Interaction: A Survey. [\[PDF\]](https://arxiv.org/abs/2101.00443)
