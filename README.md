@@ -88,9 +88,9 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 ### Field Object Representation (Neural Fields/Dense Grids/etc.)
 
-- #### 2023
+#### 2023
 
-  - vMAP: Vectorised Object Mapping for Neural Field SLAM. [\[PDF\]](https://arxiv.org/pdf/2302.01838.pdf) [\[Code\]](https://github.com/kxhit/vMAP) [\[Project Page\]](https://kxhit.github.io/vMAP) [\[Video\]](https://kxhit.github.io/media/vMAP/vmap_raw.mp4)
+- vMAP: Vectorised Object Mapping for Neural Field SLAM. [\[PDF\]](https://arxiv.org/pdf/2302.01838.pdf) [\[Code\]](https://github.com/kxhit/vMAP) [\[Project Page\]](https://kxhit.github.io/vMAP) [\[Video\]](https://kxhit.github.io/media/vMAP/vmap_raw.mp4)
 
 - #### 2022
 
