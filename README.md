@@ -89,6 +89,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 - #### 2023
 
+  - NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects. [\[PDF\]](https://arxiv.org/abs/2303.07308) [\[Project Page\]](https://neuse-slam.github.io/neuse/)
   - vMAP: Vectorised Object Mapping for Neural Field SLAM. [\[PDF\]](https://arxiv.org/pdf/2302.01838.pdf) [\[Code\]](https://github.com/kxhit/vMAP) [\[Project Page\]](https://kxhit.github.io/vMAP) [\[Video\]](https://kxhit.github.io/media/vMAP/vmap_raw.mp4)
 
 - #### 2022
