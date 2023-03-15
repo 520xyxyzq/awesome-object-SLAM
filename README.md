@@ -31,6 +31,10 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 ### Parametric Object Representation (Cubes/Quadrics/6DoF Pose/etc.)
 
+- #### 2023
+
+  - Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types. [\[PDF\]](https://arxiv.org/pdf/2303.07872v1.pdf) [\[Video\]](https://www.youtube.com/watch?v=aVc4x3hsVo4)
+
 - #### 2022
 
   - LayoutSLAM: Object Layout based Simultaneous Localization and Mapping for Reducing Object Map Distortion. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/9981492)
