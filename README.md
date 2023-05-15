@@ -34,6 +34,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 - #### 2023
 
   - Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types. [\[PDF\]](https://arxiv.org/pdf/2303.07872v1.pdf) [\[Video\]](https://www.youtube.com/watch?v=aVc4x3hsVo4)
+  - An Object SLAM Framework for Association, Mapping, and High-Level Tasks. [\[PDF\]](https://arxiv.org/pdf/2305.07299.pdf) 
 
 - #### 2022
 
