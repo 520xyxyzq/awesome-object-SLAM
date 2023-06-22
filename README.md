@@ -31,6 +31,9 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 ### Parametric Object Representation (Cubes/Quadrics/6DoF Pose/etc.)
 
+- #### 2023
+  - BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects. [\[PDF\]](https://arxiv.org/abs/2303.14158) [\[Code\]](https://github.com/NVlabs/BundleSDF) [\[Video\]](https://www.youtube.com/watch?v=5PymzKbKv8w)
+
 - #### 2022
 
   - LayoutSLAM: Object Layout based Simultaneous Localization and Mapping for Reducing Object Map Distortion. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/9981492)
