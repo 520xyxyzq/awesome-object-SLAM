@@ -36,6 +36,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
   - An Object SLAM Framework for Association, Mapping, and High-Level Tasks. [\[PDF\]](https://arxiv.org/pdf/2305.07299.pdf)
   - BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects. [\[PDF\]](https://arxiv.org/abs/2303.14158) [\[Code\]](https://github.com/NVlabs/BundleSDF) [\[Video\]](https://www.youtube.com/watch?v=5PymzKbKv8w)
   - Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types. [\[PDF\]](https://arxiv.org/pdf/2303.07872.pdf) [\[Video\]](https://www.youtube.com/watch?v=aVc4x3hsVo4)
+  - ObVi-SLAM: Long-Term Object-Visual SLAM. [\[PDF\]](https://arxiv.org/pdf/2309.15268.pdf) [\[Code\]](https://github.com/ut-amrl/ObVi-SLAM) [\[Video\]](https://youtu.be/quJOgnEdaZ0)
   - UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling. [\[PDF\]](https://arxiv.org/pdf/2309.17036.pdf)
 
 - #### 2022
