@@ -31,6 +31,10 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 ### Parametric Object Representation (Cubes/Quadrics/6DoF Pose/etc.)
 
+- #### 2024
+
+  - VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks. [\[PDF\]](https://arxiv.org/pdf/2402.13609.pdf) [\[Code\]](https://github.com/yutongwangBIT/VOOM)
+
 - #### 2023
 
   - An Object SLAM Framework for Association, Mapping, and High-Level Tasks. [\[PDF\]](https://arxiv.org/pdf/2305.07299.pdf)
@@ -189,4 +193,3 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 - [ScanNet](http://www.scan-net.org/)
 - [TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/download)
 - [YCB-Video](https://rse-lab.cs.washington.edu/projects/posecnn/)
-
