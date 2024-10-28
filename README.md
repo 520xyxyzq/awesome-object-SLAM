@@ -100,6 +100,10 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 ### Field Object Representation (Neural Fields/Dense Grids/etc.)
 
+
+- #### 2024
+  - Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors. [\[PDF\]](https://arxiv.org/pdf/2410.05514) [\[Code\]](https://github.com/TRAILab/GeneralObjectMapping)
+
 - #### 2023
 
   - NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects. [\[PDF\]](https://arxiv.org/abs/2303.07308) [\[Project Page\]](https://neuse-slam.github.io/neuse/)
