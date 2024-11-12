@@ -33,6 +33,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 - #### 2024
   - DynaQuadric: Dynamic Quadric SLAM for Quadric Initialization, Mapping, and Tracking. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10591477)
+  - Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models. [\[PDF\]](https://arxiv.org/pdf/2411.06752)
   - Multi-Robot Object SLAM using Distributed Variational Inference. [\[PDF\]](https://arxiv.org/pdf/2404.18331) [\[Code\]](https://github.com/intrepidChw/distributed_msckf)
   - VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks. [\[PDF\]](https://arxiv.org/pdf/2402.13609.pdf) [\[Code\]](https://github.com/yutongwangBIT/VOOM)
 
