@@ -102,6 +102,9 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 ### Field Object Representation (Neural Fields/Dense Grids/etc.)
 
 
+- #### 2025
+  - PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM. [\[PDF\]](https://www.arxiv.org/pdf/2501.00352) [\[Code\]](https://github.com/runnanchen/PanoSLAM)
+
 - #### 2024
   - Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors. [\[PDF\]](https://arxiv.org/pdf/2410.05514) [\[Code\]](https://github.com/TRAILab/GeneralObjectMapping)
 
@@ -180,6 +183,11 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 - #### 2020
 
   - Semantics for Robotic Mapping, Perception and Interaction: A Survey. [\[PDF\]](https://arxiv.org/abs/2101.00443)
+
+
+### Theses
+
+
 
 ----------------------
 
