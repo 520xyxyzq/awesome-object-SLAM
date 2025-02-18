@@ -103,6 +103,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
 
 - #### 2025
+  - EmbodiedSAM: Online Segment Any 3D Thing in Real Time [\[PDF\]](https://arxiv.org/pdf/2408.11811) [\[Code\]](https://github.com/xuxw98/ESAM) [\[Project Page\]](https://xuxw98.github.io/ESAM/)
   - PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM. [\[PDF\]](https://www.arxiv.org/pdf/2501.00352) [\[Code\]](https://github.com/runnanchen/PanoSLAM)
 
 - #### 2024
